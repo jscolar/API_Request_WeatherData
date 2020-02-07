@@ -1,3 +1,5 @@
+api_key = "1d51dd671f3f3e3445529d595a806837"
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
